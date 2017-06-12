@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Modding - Clown</title>
+<style type="text/css">
+* {
+  font-family: Helvetica, sans-serif;
+  font-size: 10pt;
+  padding: 0;
+  margin: 0;
+}
+img {
+	image-rendering: pixelated;
+	image-rendering: -moz-crisp-edges;         /* Firefox */
+	image-rendering:   -o-crisp-edges;         /* Opera */
+	image-rendering: -webkit-optimize-contrast;/* Webkit (non-standard naming) */
+	image-rendering: crisp-edges;
+	-ms-interpolation-mode: nearest-neighbor;  /* IE (non-standard property) */
+}
+</style>
+<script type="text/javascript">
+function playSound(sFileName) {
+	var audio = new Audio("sound/" + sFileName + ".mp3");
+	audio.play();
+}
+</script>
+</head>
+<body onload="playSound('clown.injured.uaauw');">
+
+
+<table>
+	<tr>
+		<td>
+			<img src="img/clown.01.png" style="XXXwidth: 200px;" onclick="playSound('clown.laugh.hihiheeera.01')"/>
+		</td>
+		<td>
+
+	<div class="audioWrapper">
+		<div class="label">clown.huuu.short.mp3</div>
+		<audio controls><source src="sound/clown.huuu.short.mp3" type="audio/mpeg"></audio>
+	</div>
+
+	<div class="audioWrapper">
+		<div class="label">clown.injured.uaauw.mp3</div>
+		<audio controls><source src="sound/clown.injured.uaauw.mp3" type="audio/mpeg"></audio>
+	</div>
+
+	<div class="audioWrapper">
+		<div class="label">clown.laugh.ahuh.long.mp3</div>
+		<audio controls><source src="sound/clown.laugh.ahuh.long.mp3" type="audio/mpeg"></audio>
+	</div>
+
+	<div class="audioWrapper">
+		<div class="label">clown.laugh.ahuh.short.mp3</div>
+		<audio controls><source src="sound/clown.laugh.ahuh.short.mp3" type="audio/mpeg"></audio>
+	</div>
+
+	<div class="audioWrapper">
+		<div class="label">clown.laugh.hihiheeera.01.mp3</div>
+		<audio controls><source src="sound/clown.laugh.hihiheeera.01.mp3" type="audio/mpeg"></audio>
+	</div>
+
+	<div class="audioWrapper">
+		<div class="label">clown.laugh.hihiheeera.02.mp3</div>
+		<audio controls><source src="sound/clown.laugh.hihiheeera.02.mp3" type="audio/mpeg"></audio>
+	</div>
+
+	<div class="audioWrapper">
+		<div class="label">clown.laugh.huueeh.mp3</div>
+		<audio controls><source src="sound/clown.laugh.huueeh.mp3" type="audio/mpeg"></audio>
+	</div>
+
+	<!--div class="audioWrapper">
+		<div class="label">clown.laugh.long.2.mp3</div>
+		<audio controls><source src="sound/clown.laugh.long.2.mp3" type="audio/mpeg"></audio>
+	</div-->
+
+	<!--div class="audioWrapper">
+		<div class="label">clown.laugh.long.3.mp3</div>
+		<audio controls><source src="sound/clown.laugh.long.3.mp3" type="audio/mpeg"></audio>
+	</div-->
+
+	<!--div class="audioWrapper">
+		<div class="label">clown.laugh.long.4.mp3</div>
+		<audio controls><source src="sound/clown.laugh.long.4.mp3" type="audio/mpeg"></audio>
+	</div-->
+
+	<div class="audioWrapper">
+		<div class="label">clown.laugh.long.mp3</div>
+		<audio controls><source src="sound/clown.laugh.long.mp3" type="audio/mpeg"></audio>
+	</div>
+
+	<div class="audioWrapper">
+		<div class="label">clown.laugh.short.hahahareh.mp3</div>
+		<audio controls><source src="sound/clown.laugh.short.hahahareh.mp3" type="audio/mpeg"></audio>
+	</div>
+
+	<div class="audioWrapper">
+		<div class="label">clown.laugh.short.mp3</div>
+		<audio controls><source src="sound/clown.laugh.short.mp3" type="audio/mpeg"></audio>
+	</div>
+
+	<div class="audioWrapper">
+		<div class="label">clown.scream.bec.mp3</div>
+		<audio controls><source src="sound/clown.scream.bec.mp3" type="audio/mpeg"></audio>
+	</div>
+
+	<div class="audioWrapper">
+		<div class="label">clown.scream.huuuu.long.mp3</div>
+		<audio controls><source src="sound/clown.scream.huuuu.long.mp3" type="audio/mpeg"></audio>
+	</div>
+
+	<div class="audioWrapper">
+		<div class="label">clown.walking.a-ee-ah.mp3</div>
+		<audio controls><source src="sound/clown.walking.a-ee-ah.mp3" type="audio/mpeg"></audio>
+	</div>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
