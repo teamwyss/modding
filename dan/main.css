@@ -1,0 +1,16 @@
+a {
+	font-size: 20px;
+	color: rgb(20,202,45);	
+}
+a:hover{
+	font-size: 300px;
+	color: rgb(200,202,105);
+}
+button {
+	border-radius:20px;
+	background-color: rgb(5,100,20);
+	padding: 80px;
+	color: white;
+	font-size: 50px;
+	href:"http://www.coolmath-games.com/0-red-ball-4-volume-3"
+}
