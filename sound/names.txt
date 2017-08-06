@@ -1,23 +1,80 @@
-total 1024
-drwxr-xr-x  22 gogs  wheel    748 11 Jun 21:40 .
-drwxr-xr-x   8 gogs  wheel    272 11 Jun 21:32 ..
--rw-r--r--   1 gogs  wheel   8196 11 Jun 16:28 .DS_Store
-drwxr-xr-x   6 gogs  wheel    204 11 Jun 16:18 bak
--rw-r--r--@  1 gogs  staff  12315 11 Jun 16:31 clown.huuu.short.mp3
--rw-r--r--@  1 gogs  staff  22245 11 Jun 16:31 clown.injured.uaauw.mp3
--rw-r--r--   1 gogs  staff  33491 11 Jun 15:58 clown.laugh.ahuh.long.mp3
--rw-r--r--@  1 gogs  staff  11799 11 Jun 16:31 clown.laugh.ahuh.short.mp3
--rw-r--r--@  1 gogs  staff  27998 11 Jun 16:31 clown.laugh.hihiheeera.01.mp3
--rw-r--r--@  1 gogs  staff  27998 11 Jun 16:31 clown.laugh.hihiheeera.02.mp3
--rw-r--r--@  1 gogs  staff   8660 11 Jun 16:31 clown.laugh.huueeh.mp3
--rw-r--r--@  1 gogs  staff  33491 11 Jun 16:31 clown.laugh.long.2.mp3
--rw-r--r--@  1 gogs  staff  33491 11 Jun 16:31 clown.laugh.long.3.mp3
--rw-r--r--@  1 gogs  staff  33491 11 Jun 15:58 clown.laugh.long.4.mp3
--rw-r--r--@  1 gogs  staff  33475 11 Jun 16:31 clown.laugh.long.mp3
--rw-r--r--@  1 gogs  staff  16506 11 Jun 16:31 clown.laugh.short.hahahareh.mp3
--rw-r--r--@  1 gogs  staff  25639 11 Jun 16:31 clown.laugh.short.mp3
--rw-r--r--@  1 gogs  staff  34520 11 Jun 16:31 clown.scream.bec.mp3
--rw-r--r--@  1 gogs  staff  94608 11 Jun 16:31 clown.scream.huuuu.long.mp3
--rw-r--r--@  1 gogs  staff  18329 11 Jun 16:31 clown.walking.a-ee-ah.mp3
--rw-r--r--   1 gogs  wheel      0 11 Jun 21:40 names.txt
-drwxr-xr-x  14 gogs  wheel    476 11 Jun 16:28 ready for conversion
+
+<div class="audioWrapper">
+	<div class="label">clown.huuu.short.mp3</div>
+	<audio controls><source src="sound/clown.huuu.short.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="audioWrapper">
+	<div class="label">clown.injured.uaauw.mp3</div>
+	<audio controls><source src="sound/clown.injured.uaauw.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="audioWrapper">
+	<div class="label">clown.laugh.ahuh.long.mp3</div>
+	<audio controls><source src="sound/clown.laugh.ahuh.long.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="audioWrapper">
+	<div class="label">clown.laugh.ahuh.short.mp3</div>
+	<audio controls><source src="sound/clown.laugh.ahuh.short.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="audioWrapper">
+	<div class="label">clown.laugh.hihiheeera.01.mp3</div>
+	<audio controls><source src="sound/clown.laugh.hihiheeera.01.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="audioWrapper">
+	<div class="label">clown.laugh.hihiheeera.02.mp3</div>
+	<audio controls><source src="sound/clown.laugh.hihiheeera.02.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="audioWrapper">
+	<div class="label">clown.laugh.huueeh.mp3</div>
+	<audio controls><source src="sound/clown.laugh.huueeh.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="audioWrapper">
+	<div class="label">clown.laugh.long.2.mp3</div>
+	<audio controls><source src="sound/clown.laugh.long.2.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="audioWrapper">
+	<div class="label">clown.laugh.long.3.mp3</div>
+	<audio controls><source src="sound/clown.laugh.long.3.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="audioWrapper">
+	<div class="label">clown.laugh.long.4.mp3</div>
+	<audio controls><source src="sound/clown.laugh.long.4.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="audioWrapper">
+	<div class="label">clown.laugh.long.mp3</div>
+	<audio controls><source src="sound/clown.laugh.long.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="audioWrapper">
+	<div class="label">clown.laugh.short.hahahareh.mp3</div>
+	<audio controls><source src="sound/clown.laugh.short.hahahareh.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="audioWrapper">
+	<div class="label">clown.laugh.short.mp3</div>
+	<audio controls><source src="sound/clown.laugh.short.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="audioWrapper">
+	<div class="label">clown.scream.bec.mp3</div>
+	<audio controls><source src="sound/clown.scream.bec.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="audioWrapper">
+	<div class="label">clown.scream.huuuu.long.mp3</div>
+	<audio controls><source src="sound/clown.scream.huuuu.long.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="audioWrapper">
+	<div class="label">clown.walking.a-ee-ah.mp3</div>
+	<audio controls><source src="sound/clown.walking.a-ee-ah.mp3" type="audio/mpeg"></audio>
+</div>
